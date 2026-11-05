@@ -1,2 +1,3 @@
 # Baran Ertürk
-Merhaba, ben Baran. SWPS'de Bilgisayar Bilimleri okuyorum.
+1-linux
+2-git
